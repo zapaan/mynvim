@@ -1,0 +1,5 @@
+*
+!.gitignore
+!clean_install.sh
+!*.vim
+!README.md
